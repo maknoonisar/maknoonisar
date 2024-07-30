@@ -35,6 +35,6 @@ Experienced Lead Front-end Developer and AI Engineer with over 4 years in dynami
 - **[AI-Powered Chatbot](https://github.com/username/ai-powered-chatbot):** An intelligent chatbot leveraging machine learning and natural language processing.
 
 ## Contact
-- [Website](https://www.mywebsite.com)
+<!-- - [Website](https://www.mywebsite.com)
 - [LinkedIn](https://www.linkedin.com/in/myprofile)
-- [Twitter](https://twitter.com/myprofile)
+- [Twitter](https://twitter.com/myprofile)-->
