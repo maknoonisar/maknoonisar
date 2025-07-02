@@ -1,129 +1,331 @@
-<!-- Hi there 👋 -->
+<div align="center">
 
-# **Dur-e-Maknoon Nisar**
+# 🌟 **Dur-e-Maknoon Nisar** 🌟
 
-🚀 AI Engineer | 🌐 Full-Stack Developer | 🛰️ GIS Technologist  
-🔧 Deputy Manager Backend @ NDMA | 4+ Years of Impact-Driven Tech Innovation  
-🧠 Focused on Generative AI, Disaster Management, and Domain-Aware AI Systems  
+### *Transforming Disasters into Data-Driven Solutions*
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+%7C+Disaster+Tech+Innovator;Building+Tomorrow's+Safety+Today;4%2B+Years+of+Impact-Driven+Innovation" alt="Typing SVG" />
 
-## 🏆 **Achievements**
-
-![YOLO Badge](https://img.shields.io/badge/Achievement-YOLO-brightgreen)
-![Quickdraw Badge](https://img.shields.io/badge/Achievement-Quickdraw-blue)
-![Pull Shark Badge](https://img.shields.io/badge/Achievement-Pull%20Shark-yellow)
-![Data Fest Badge](https://img.shields.io/badge/Achievement-National%20Data%20Fest-orange)
-![DiDRR Badge](https://img.shields.io/badge/Initiative-DiDRR-green)
-![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-red)
-![TechLead Badge](https://img.shields.io/badge/Title-Technical%20Lead-lightgrey)
+</div>
 
 ---
 
-## 💼 **Recent & Impactful Projects (2024–2025)**
+<div align="center">
 
-### 🔬 **[Smog & Temperature Prediction System (NDMA)](https://github.com/username/ndma-smog-temp-prediction)**  
-> Built for **National Disaster Management Authority (NDMA)**  
-> Forecasting seasonal smog and temperature levels using **Prophet**, **FastAPI**, and **visual dashboards**.
+## 🚀 **Who Am I?**
 
-- Data from **PM2.5**, AQI, and weather APIs processed via time-series forecasting  
-- Auto-generated alerts & PDF summaries for decision-makers  
-- Deployed with real-time update pipeline and export-ready charts
+</div>
 
----
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🤖_AI_Engineer-Expert-FF6B6B?style=for-the-badge&labelColor=1a1a1a" />
+<br><br>
+<sub><b>Generative AI • Computer Vision • ML Ops</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🌐_Full--Stack_Dev-Specialist-4ECDC4?style=for-the-badge&labelColor=1a1a1a" />
+<br><br>
+<sub><b>FastAPI • React • Django • Vue.js</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🛰️_GIS_Technologist-Advanced-FFE66D?style=for-the-badge&labelColor=1a1a1a" />
+<br><br>
+<sub><b>Google Earth Engine • QGIS • Remote Sensing</b></sub>
+</td>
+</tr>
+</table>
 
-### 🤖 **[AI-Driven HR Management System](https://github.com/username/hr-ai-system)**  
-> Prompt-based HR assistant integrating **LangChain**, **FastAPI**, and **React.js**
+<div align="center">
 
-- Modular AI agents: leave handling, payroll, document lookup  
-- Integrated PDF reading, vector DB, voice input/output  
-- Scalable for enterprise HR workloads
+### 🏢 **Deputy Manager Backend @ NDMA** | 🌍 **Pakistan's Disaster Management Authority**
 
----
+*Leveraging AI to save lives and protect communities through predictive disaster management*
 
-### 🗂️ **[HR Policy Viewer & Exporter](https://github.com/username/hr-policy-viewer)**  
-> FastAPI + React system for internal policy PDFs
-
-- File preview, secure download, Excel export  
-- Ant Design UI with seamless UX
-
----
-
-### 🧭 **[Magnetic Anomaly Detection (GEE + ML)](https://github.com/username/google-earth-magnetic-analysis)**  
-> Google Earth Engine + ML to analyze **magnetic fields** and **earth surface** anomalies for disaster risk
-
-- Custom GEE scripts + Python ML backend  
-- Used for **subsurface mapping** and risk zone analysis  
-- Visualized outputs via QGIS and NDMA geoservers
+</div>
 
 ---
 
-### 🧠 **[AI Chatbot with Knowledge Base](https://github.com/username/ai-knowledge-chatbot)**  
-> Interactive chatbot for employee support, built with **LangChain**, **ChromaDB**, and **OpenAI API**
+## 🏆 **Achievement Gallery**
 
-- Embeds documents from HR, NDMA policies, SOPs  
-- Includes prompt memory, multi-turn conversation support  
-- Deployed with FastAPI and persistent vector DB
+<div align="center">
 
----
+![YOLO](https://img.shields.io/badge/🎯_YOLO-Achievement-brightgreen?style=for-the-badge&logo=target&logoColor=white)
+![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-Master-blue?style=for-the-badge&logo=lightning&logoColor=white)
+![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-GitHub-yellow?style=for-the-badge&logo=github&logoColor=white)
+![Data Fest](https://img.shields.io/badge/📊_National_Data_Fest-Exhibitor-orange?style=for-the-badge&logo=chart-bar&logoColor=white)
 
-## 🌟 **Notable Past Projects**
+![DiDRR](https://img.shields.io/badge/♿_DiDRR_Initiative-Contributor-green?style=for-the-badge&logo=accessibility&logoColor=white)
+![Hackathon](https://img.shields.io/badge/🏅_Hackathon-Winner-red?style=for-the-badge&logo=trophy&logoColor=white)
+![TechLead](https://img.shields.io/badge/👑_Technical-Lead-lightgrey?style=for-the-badge&logo=crown&logoColor=white)
 
-### 🌦️ [Weather Forecasting API](https://github.com/username/weather-forecasting-api)  
-> Django + Prophet for weather predictions
-
-### 🪞 [Magic Mirror (MH Mirror)](https://github.com/username/magic-mirror)  
-> Real-time garment simulation and avatar creation using **CV + ML**
-
-### 🚨 [Disaster Management Platform (NDMA)](https://github.com/username/disaster-management)  
-> Full backend stack for resource allocation, alerting, and spatial risk evaluation
-
-### 🩺 [Medical Imaging AI](https://github.com/username/medical-imaging-ai)  
-> Diagnostic support through image segmentation, classification
-
-### 🌍 [GIS-Based Environmental Monitoring](https://github.com/username/gis-environment-monitoring)  
-> QGIS, ArcGIS, and sensors for sustainable geospatial analytics
+</div>
 
 ---
 
-## ⚙️ **Skills Snapshot**
+<div align="center">
 
-### 🧠 Domains  
-- Computer Vision | AI Agents | Generative AI | Prompt Engineering  
-- GIS & Remote Sensing | Medical Imaging | Disaster Management AI
+## 💡 **Flagship Projects (2024–2025)**
 
-### 🧾 Languages  
-- Python | JavaScript | TypeScript | Bash | SQL
+*Where Innovation Meets Impact*
 
-### 🧰 Frameworks & Stacks  
-- PyTorch | TensorFlow | OpenCV | LangChain  
-- FastAPI | Django | Flask | React | Vue.js
+</div>
 
-### 🛠️ Tools & Platforms  
-- Docker | Airflow | Git | Postman  
-- PostgreSQL | MySQL | SQLite  
-- HuggingFace | GEE | QGIS | ArcGIS
+### 🌪️ **Smog & Temperature Prediction System** | *NDMA Official Project*
+> **Saving Lives Through Predictive Intelligence**
 
-### 🌱 Soft Skills  
-- Strategic Leadership | Public Speaking | Cross-sector Collaboration
+```python
+🎯 Impact: Real-time smog forecasting for Pakistan's major cities
+📊 Tech Stack: Prophet • FastAPI • PostgreSQL • React Dashboards
+🚨 Features: Automated alerts • PDF reports • Decision-maker dashboards
+```
 
----
-
-## 🌍 **Initiatives & Contributions**
-
-- 🧩 **Contributor**: Disability-Inclusive Disaster Risk Reduction (DiDRR)  
-- 📊 **Exhibitor**: National Data Fest – Pakistan Bureau of Statistics  
-- 🌐 **Collaborator**: International Disaster Tech & Humanitarian Projects
+**Key Achievements:**
+- 📈 Processes **PM2.5, AQI, and weather data** from multiple APIs
+- ⏰ **Real-time prediction pipeline** with automated updates
+- 📋 **Executive summary PDFs** for government decision-makers
+- 🎨 **Interactive visualizations** for public awareness
 
 ---
 
-## 📫 **Connect with Me**
+### 🤖 **AI-Powered HR Management Revolution**
+> **Transforming HR Operations with Intelligent Automation**
 
-- 📧 Email: [duremaknoonnisar@gmail.com](mailto:duremaknoonnisar@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/maknoonnisar](https://www.linkedin.com/in/maknoonnisar)  
-- 🧑‍💻 GitHub: [github.com/maknoonisar](https://github.com/maknoonisar)  
-- 🌐 Portfolio: *Coming Soon*
+```javascript
+🎯 Mission: Revolutionize HR workflows with AI agents
+🛠️ Stack: LangChain • FastAPI • React.js • ChromaDB
+🧠 AI Features: Multi-agent system • Voice I/O • Document intelligence
+```
+
+**Innovation Highlights:**
+- 🎭 **Modular AI Agents** for leave management, payroll, and document retrieval
+- 📚 **Intelligent PDF Processing** with vector database integration
+- 🎤 **Voice-Enabled Interface** for hands-free HR operations
+- 🔄 **Enterprise-Ready Architecture** for scalable deployment
 
 ---
 
-💡 _Driven by curiosity. Guided by purpose. Let's collaborate on impactful AI._  
+### 🗺️ **Magnetic Anomaly Detection for Disaster Prediction**
+> **Earth's Hidden Signals Revealed Through AI**
+
+```python
+🌍 Scope: Subsurface analysis for disaster risk assessment
+🛰️ Platform: Google Earth Engine • Python ML • QGIS
+🔬 Application: Magnetic field analysis • Surface anomaly detection
+```
+
+**Scientific Impact:**
+- 🧭 **Custom GEE Scripts** for magnetic field analysis
+- 🤖 **ML-Powered Anomaly Detection** for subsurface mapping
+- 🗺️ **Risk Zone Visualization** integrated with NDMA systems
+- 📊 **Geospatial Intelligence** for proactive disaster management
+
+---
+
+### 💬 **Enterprise AI Knowledge Assistant**
+> **Intelligent Support System with Organizational Memory**
+
+```yaml
+Core Technology:
+  - Framework: LangChain + ChromaDB
+  - API: OpenAI GPT-4 Integration
+  - Memory: Persistent conversation history
+  - Knowledge Base: HR policies, SOPs, NDMA guidelines
+```
+
+**Smart Features:**
+- 🧠 **Document Embedding** for instant policy retrieval
+- 💭 **Multi-turn Conversations** with context awareness
+- 🔒 **Secure Knowledge Base** with role-based access
+- ⚡ **Real-time Response** generation with source attribution
+
+---
+
+<div align="center">
+
+## 🌟 **Legacy Projects Portfolio**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌦️ **Weather Forecasting API**
+*Advanced meteorological predictions*
+- **Django + Prophet** time series
+- **Multi-region support**
+- **API-first architecture**
+
+### 🪞 **Magic Mirror (MH Mirror)**
+*AR garment simulation platform*
+- **Computer Vision + ML**
+- **Real-time avatar creation**
+- **Virtual try-on technology**
+
+</td>
+<td width="50%">
+
+### 🚨 **NDMA Disaster Management Platform**
+*Comprehensive emergency response system*
+- **Resource allocation algorithms**
+- **Spatial risk evaluation**
+- **Multi-agency coordination**
+
+### 🩺 **Medical Imaging AI**
+*Healthcare diagnostic support*
+- **Image segmentation**
+- **Classification models**
+- **Clinical decision support**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ⚡ **Technical Arsenal**
+
+</div>
+
+<details>
+<summary><b>🧠 AI & Machine Learning Expertise</b></summary>
+<br>
+
+```python
+domains = {
+    "Computer Vision": ["OpenCV", "PIL", "Detectron2", "YOLO"],
+    "Generative AI": ["GPT-4", "LangChain", "Prompt Engineering", "RAG"],
+    "Time Series": ["Prophet", "ARIMA", "Seasonal Decomposition"],
+    "Geospatial AI": ["Google Earth Engine", "Satellite Imagery", "GIS Analytics"],
+    "Medical AI": ["Image Segmentation", "Diagnostic Support", "Clinical ML"]
+}
+```
+
+</details>
+
+<details>
+<summary><b>💻 Development Stack</b></summary>
+<br>
+
+**Languages:**
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Expert-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks:**
+![FastAPI](https://img.shields.io/badge/FastAPI-Expert-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Advanced-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-Proficient-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-Intermediate-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🛠️ DevOps & Infrastructure</b></summary>
+<br>
+
+**Tools:**
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-Proficient-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+</details>
+
+---
+
+<div align="center">
+
+## 🌍 **Global Impact & Recognition**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🧩_DiDRR-Contributor-success?style=for-the-badge" />
+<br><br>
+<sub><b>Disability-Inclusive Disaster Risk Reduction</b><br>International humanitarian initiative</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📊_Data_Fest-Exhibitor-informational?style=for-the-badge" />
+<br><br>
+<sub><b>Pakistan Bureau of Statistics</b><br>National data science showcase</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🌐_International-Collaborator-important?style=for-the-badge" />
+<br><br>
+<sub><b>Disaster Tech & Humanitarian Projects</b><br>Cross-border innovation</sub>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 **GitHub Analytics**
+
+</div>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=maknoonisar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maknoonisar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maknoonisar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
+</p>
+
+---
+
+<div align="center">
+
+## 🤝 **Let's Connect & Collaborate**
+
+### *Building the Future of Disaster-Resilient Communities*
+
+</div>
+
+<p align="center">
+<a href="mailto:duremaknoonnisar@gmail.com"><img src="https://img.shields.io/badge/📧_Email-duremaknoonnisar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/maknoonnisar"><img src="https://img.shields.io/badge/💼_LinkedIn-maknoonnisar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/maknoonisar"><img src="https://img.shields.io/badge/👨‍💻_GitHub-maknoonisar-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<div align="center">
+
+### 🌟 **Portfolio Website** 🌟
+*Coming Soon - A showcase of innovation in disaster management AI*
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=maknoonisar&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+
+---
+
+*💡 "Every algorithm I write, every model I train, every system I build has one purpose:<br>
+**To turn data into hope, and innovation into impact."***
+
+**🚀 Ready to collaborate on AI solutions that matter? Let's build something extraordinary together!**
+
+---
+
+</div>
+
+<div align="center">
+<sub>⭐ Star this repository if you found it inspiring!</sub>
+</div>
