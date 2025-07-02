@@ -4,7 +4,7 @@
 
 ### *Transforming Disasters into Data-Driven Solutions*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+%7C+Disaster+Tech+Innovator;Building+Tomorrow's+Safety+Today;4%2B+Years+of+Impact-Driven+Innovation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+%7C+Disaster+Tech+Innovator;Building+Tomorrow's+Safety+Today;5%2B+Years+of+Impact-Driven+Innovation" alt="Typing SVG" />
 
 </div>
 
@@ -42,7 +42,7 @@
 
 *5+ Years of AI Innovation • Leveraging Technology to Save Lives and Protect Communities*
 
-📱 **Mobile:** +92-3325229601 | 🌐 **LeetCode:** [Profile](https://leetcode.com/duremaknoon)
+ 🌐 **LeetCode:** [Profile](https://leetcode.com/duremaknoon)
 
 </div>
 
@@ -140,6 +140,43 @@ Core Technology:
 - 💭 **Multi-turn Conversations** with context awareness
 - 🔒 **Secure Knowledge Base** with role-based access
 - ⚡ **Real-time Response** generation with source attribution
+
+---
+
+<div align="center">
+
+## 🏆 **International Hackathon Victories**
+
+*Competing and Winning on the Global Stage*
+
+</div>
+
+### 🚀 **AIstronauts: Space Agents on a Mission** | *Geneva, Switzerland*
+> **University of Geneva - Center for Innovation & Partnerships** | *Feb 07-09, 2025*
+
+```yaml
+Achievement: AI-Powered Space Education Platform
+Technology: Personalized learning • Real-time space data • AR/VR experiences
+Impact: Interactive simulations for next-gen space education
+```
+
+### 🌍 **AI for Connectivity Hackathon** | *Geneva, Switzerland*
+> **University of Geneva - Center for Innovation & Partnerships** | *Jan 24-26, 2025*
+
+```yaml
+Solution: GIS-Based Tourism & Disaster Management Platform
+Features: Real-time weather APIs • Hazard mapping • Infrastructure layers
+Innovation: Comprehensive risk awareness system
+```
+
+### 🏅 **Build with AI Hackathon 2024** | *Global Online Competition*
+> **GenAI Works - 4-Day Global Challenge** | *Dec 06-08, 2024*
+
+```yaml
+Project: Advanced GIS Tourism & Disaster Platform
+Integration: Weather APIs • Hazard mapping • Risk assessment
+Recognition: Global competition achievement
+```
 
 ---
 
@@ -275,16 +312,16 @@ domains = {
 </div>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=maknoonnizar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=maknoonisar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maknoonnizar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maknoonisar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maknoonnizar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
-</p></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maknoonisar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
+</p>
 
 ---
 
@@ -339,43 +376,6 @@ Using Improved DarkNet53 Model<br>
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-## 🏆 **International Hackathon Victories**
-
-*Competing and Winning on the Global Stage*
-
-</div>
-
-### 🚀 **AIstronauts: Space Agents on a Mission** | *Geneva, Switzerland*
-> **University of Geneva - Center for Innovation & Partnerships** | *Feb 07-09, 2025*
-
-```yaml
-Achievement: AI-Powered Space Education Platform
-Technology: Personalized learning • Real-time space data • AR/VR experiences
-Impact: Interactive simulations for next-gen space education
-```
-
-### 🌍 **AI for Connectivity Hackathon** | *Geneva, Switzerland*
-> **University of Geneva - Center for Innovation & Partnerships** | *Jan 24-26, 2025*
-
-```yaml
-Solution: GIS-Based Tourism & Disaster Management Platform
-Features: Real-time weather APIs • Hazard mapping • Infrastructure layers
-Innovation: Comprehensive risk awareness system
-```
-
-### 🏅 **Build with AI Hackathon 2024** | *Global Online Competition*
-> **GenAI Works - 4-Day Global Challenge** | *Dec 06-08, 2024*
-
-```yaml
-Project: Advanced GIS Tourism & Disaster Platform
-Integration: Weather APIs • Hazard mapping • Risk assessment
-Recognition: Global competition achievement
-```
 
 ---
 
@@ -501,7 +501,7 @@ Career guidance & skill development<br>
 <p align="center">
 <a href="mailto:duremaknoonnisar@gmail.com"><img src="https://img.shields.io/badge/📧_Email-duremaknoonnisar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/maknoonnisar"><img src="https://img.shields.io/badge/💼_LinkedIn-maknoonnisar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/maknoonnizar"><img src="https://img.shields.io/badge/👨‍💻_GitHub-maknoonnizar-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/maknoonisar"><img src="https://img.shields.io/badge/👨‍💻_GitHub-maknoonisar-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://leetcode.com/duremaknoon"><img src="https://img.shields.io/badge/💻_LeetCode-duremaknoon-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
@@ -515,7 +515,7 @@ Career guidance & skill development<br>
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=maknoonnizar&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=maknoonisar&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
