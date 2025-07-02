@@ -40,7 +40,9 @@
 
 ### 🏢 **Deputy Manager Backend @ NDMA** | 🌍 **Pakistan's Disaster Management Authority**
 
-*Leveraging AI to save lives and protect communities through predictive disaster management*
+*5+ Years of AI Innovation • Leveraging Technology to Save Lives and Protect Communities*
+
+📱 **Mobile:** +92-3325229601 | 🌐 **LeetCode:** [Profile](https://leetcode.com/duremaknoon)
 
 </div>
 
@@ -273,16 +275,218 @@ domains = {
 </div>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=maknoonisar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=maknoonnizar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maknoonisar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maknoonnizar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maknoonisar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maknoonnizar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
+</p></div>
+
+---
+
+<div align="center">
+
+## 🎓 **Academic Excellence & Research**
+
+</div>
+
+### 🎯 **Master's in Computer Science** | *University of Engineering & Technology, Islamabad*
+**Research Focus:** *Proteins Classification Using Improved DarkNet-53 Deep Learning Model*
+- 📊 **CGPA:** 3.5/4.0 | **Duration:** 2019-2022
+- 🔬 **Advanced Research** in computer vision and deep learning
+- 🏆 **Thesis Achievement:** Published in multiple international conferences
+
+### 🎓 **Bachelor's in Computer Science** | *COMSATS University, Islamabad*
+**Capstone Project:** *MH Mirror – Advanced Virtual Fitting Room System*
+- 💡 **Innovation:** Computer vision integration for enhanced online shopping
+- 🤝 **Collaborative Research** projects and technical internships
+- 📚 **Specialized Coursework** in AI, ML, and advanced computing
+
+---
+
+<div align="center">
+
+## 📚 **Research Publications & Impact**
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/📄_IEEE_Access-2021-0066CC?style=for-the-badge&logo=ieee&logoColor=white"/>
+<br><br>
+<sub><b>"Healthcare Techniques Through Deep Learning"</b><br>
+Issues, Challenges and Opportunities<br>
+<i>High-impact journal publication</i></sub>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🔬_MAJICC-2022-FF6B35?style=for-the-badge&logo=researchgate&logoColor=white"/>
+<br><br>
+<sub><b>"Proteins Classification Using Improved DarkNet-53"</b><br>
+Deep Learning Model Research<br>
+<i>Master's thesis publication</i></sub>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🩺_IBICA-2023-00C896?style=for-the-badge&logo=academia&logoColor=white"/>
+<br><br>
+<sub><b>"Breast Cancer Identification"</b><br>
+Using Improved DarkNet53 Model<br>
+<i>Medical AI breakthrough</i></sub>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🏆 **International Hackathon Victories**
+
+*Competing and Winning on the Global Stage*
+
+</div>
+
+### 🚀 **AIstronauts: Space Agents on a Mission** | *Geneva, Switzerland*
+> **University of Geneva - Center for Innovation & Partnerships** | *Feb 07-09, 2025*
+
+```yaml
+Achievement: AI-Powered Space Education Platform
+Technology: Personalized learning • Real-time space data • AR/VR experiences
+Impact: Interactive simulations for next-gen space education
+```
+
+### 🌍 **AI for Connectivity Hackathon** | *Geneva, Switzerland*
+> **University of Geneva - Center for Innovation & Partnerships** | *Jan 24-26, 2025*
+
+```yaml
+Solution: GIS-Based Tourism & Disaster Management Platform
+Features: Real-time weather APIs • Hazard mapping • Infrastructure layers
+Innovation: Comprehensive risk awareness system
+```
+
+### 🏅 **Build with AI Hackathon 2024** | *Global Online Competition*
+> **GenAI Works - 4-Day Global Challenge** | *Dec 06-08, 2024*
+
+```yaml
+Project: Advanced GIS Tourism & Disaster Platform
+Integration: Weather APIs • Hazard mapping • Risk assessment
+Recognition: Global competition achievement
+```
+
+---
+
+<div align="center">
+
+## 🎖️ **Professional Certifications & Training**
+
+</div>
+
+<details>
+<summary><b>🌍 International Disaster Management</b></summary>
+<br>
+
+- 🆘 **UNESCAP & NDMA** - Disability-Inclusive Disaster Risk Reduction (DiDRR)
+- 🌊 **JICA Training** - Seismic Hazard Assessment and Risk Mapping
+- 👥 **Pakistan-IWMI** - Gender Equality and Social Inclusion Training
+
+</details>
+
+<details>
+<summary><b>🔒 Cybersecurity & Data</b></summary>
+<br>
+
+- 🛡️ **ADB Training** - Public Sector Cybersecurity for Officials
+- 📊 **National Data Fest** - Exhibitor (Pakistan Bureau of Statistics)
+
+</details>
+
+---
+
+<div align="center">
+
+## 💼 **Professional Journey**
+
+*5+ Years of Innovation and Impact*
+
+</div>
+
+### 🏛️ **National Disaster Management Authority** | *Deputy Manager Backend*
+> **Mar 2024 - Present** | *Full-time*
+
+**Key Achievements:**
+- 🚀 **40% efficiency boost** in back-end systems deployment
+- ⚡ **25% API performance improvement** (requests per second)
+- 🎯 **75% prediction accuracy enhancement** in temperature/smog forecasting
+- 📍 **30% reduction** in risk assessment time through GIS integration
+
+**Technical Stack:** HEC-HMS • ArcMap • QGIS • Python • Time Series Analysis
+
+---
+
+### 🤖 **Horizon Tech** | *Artificial Intelligence Engineer*
+> **Aug 2022 - Feb 2024** | *Full-time*
+
+**Innovation Highlights:**
+- 📈 **15% boost** in user engagement through intelligent media analytics
+- 🗄️ **85% PostgreSQL performance improvement**
+- 🔧 **Full-stack optimization** with Python, Django, React.js
+- 🧠 **Big data & AI integration** for enhanced content accessibility
+
+---
+
+### 🩺 **AEO Pakistan** | *OET Interlocutor*
+> **July 2022 - Present** | *Part-time*
+
+**Professional Excellence:**
+- ✅ **100% adherence** to international testing standards
+- 🎯 **OET Speaking Tests** for healthcare professionals
+- 🌍 **International certification** expertise
+
+---
+
+<div align="center">
+
+## 🌟 **Community Impact & Volunteer Work**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🤝_Hashoo_Foundation-Volunteer-success?style=for-the-badge" />
+<br><br>
+<sub><b>Hunar Program Contributor</b><br>
+Vocational training & capacity-building<br>
+<i>Empowering Northern Pakistan communities</i></sub>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/✨_SLCDO-Mentor-informational?style=for-the-badge" />
+<br><br>
+<sub><b>Community Development Volunteer</b><br>
+Career guidance & skill development<br>
+<i>Fostering self-sufficiency programs</i></sub>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🌐 **Global Communication**
+
+</div>
+
+**Languages Mastery:**
+![English](https://img.shields.io/badge/English-B2_IELTS_6.5-0066CC?style=for-the-badge&logo=cambridge&logoColor=white)
+![French](https://img.shields.io/badge/French-A1-FF6B35?style=for-the-badge&logo=france&logoColor=white)
+![Hindi](https://img.shields.io/badge/Hindi-C2_Native-00C896?style=for-the-badge&logo=india&logoColor=white)
+
+**IELTS Breakdown:** Listening: 7.0 | Reading: 6.5 | Writing: 6.0 | Speaking: 6.5
 
 ---
 
@@ -297,7 +501,8 @@ domains = {
 <p align="center">
 <a href="mailto:duremaknoonnisar@gmail.com"><img src="https://img.shields.io/badge/📧_Email-duremaknoonnisar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/maknoonnisar"><img src="https://img.shields.io/badge/💼_LinkedIn-maknoonnisar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/maknoonisar"><img src="https://img.shields.io/badge/👨‍💻_GitHub-maknoonisar-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/maknoonnizar"><img src="https://img.shields.io/badge/👨‍💻_GitHub-maknoonnizar-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/duremaknoon"><img src="https://img.shields.io/badge/💻_LeetCode-duremaknoon-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 <div align="center">
@@ -310,7 +515,7 @@ domains = {
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=maknoonisar&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=maknoonnizar&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
