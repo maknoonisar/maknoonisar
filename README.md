@@ -1,445 +1,112 @@
-# 🌟 **Dur-e-Maknoon Nisar** 🌟
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🤖+AI+ENGINEER;🌍+DISASTER+TECH+INNOVATOR;🚀+BUILDING+TOMORROW'S+SOLUTIONS;⚡+5%2B+YEARS+OF+IMPACT)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=150&section=header&text=Dur-e-Maknoon%20Nisar&fontSize=40&fontAlignY=40&fontColor=fff" />
 
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-  
+# 🚀 Senior AI Engineer | Software Engineering Lead
+**Architecting Sovereign AI & Production Systems | 6+ Years Experience**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dur-e-maknoon-nisar-89016267/)
+[![Location](https://img.shields.io/badge/📍_Location-Dubai,_UAE-red?style=for-the-badge)](https://wa.me/923325229601)
+[![Visa](https://img.shields.io/badge/🏆_Visa-Golden_Visa_Eligible_(Coder)-gold?style=for-the-badge)](#)
+
+[![Visa Status](https://img.shields.io/badge/Status-Visit_Visa-blue?style=flat-square)](https://wa.me/923325229601)
+[![Availability](https://img.shields.io/badge/Availability-30_Days_Notice-green?style=flat-square)](#)
 </div>
-
-<div align="center">
-  
-  ### 🎯 **AI Engineer** | 🏛️ **NDMA Pakistan** | 🌪️ **Disaster Management Specialist**
-  
-  *Transforming complex challenges into innovative, data-driven solutions that save lives and protect communities*
-  
 </div>
 
 ---
 
-## 🚀 **CURRENT IMPACT**
-
-<div align="center">
-  
-  | 🎯 **Experience** | 🏆 **Hackathon Wins** | 👥 **Citizens Served** | 📊 **Prediction Accuracy** |
-  |:-----------------:|:----------------------:|:----------------------:|:---------------------------:|
-  | **5+ Years** | **3 International** | **220M+** | **95%** |
-  
-</div>
-
----
-
-## 💼 **PROFESSIONAL JOURNEY**
-
-### 🏛️ **Deputy Manager Backend** | *National Disaster Management Authority (NDMA)*
-**📅 March 2024 - Present** | 📍 *Islamabad, Pakistan*
-
-```python
-impact = {
-    "🚀 AI_Systems": "Leading national disaster prediction initiatives",
-    "📊 Backend_Architecture": "Serving 220M+ citizens with real-time monitoring", 
-    "🌪️ Smog_Platform": "95% accuracy in climate forecasting",
-    "🗺️ Geospatial_AI": "Magnetic anomaly detection & risk assessment",
-    "⚡ Performance": "40% API optimization for emergency data"
-}
-```
-
-**Tech Stack:** `Python` `FastAPI` `PostgreSQL` `React` `Time Series ML` `Google Earth Engine`
-
-### 🤖 **AI Engineer** | *Horizon Tech Solutions*
-**📅 August 2022 - February 2024** | 📍 *Islamabad, Pakistan*
-
-```javascript
-achievements = {
-  "🧠 AI_Models": "Media analytics & content intelligence",
-  "🎨 Full_Stack": "React.js, Vue.js, Django, FastAPI development", 
-  "📈 User_Engagement": "15% improvement through ML recommendations",
-  "🗄️ Database_Optimization": "85% query speed enhancement",
-  "👥 Mentorship": "Led multiple cross-functional teams"
-}
-```
-
----
-
-## 🎯 **FEATURED PROJECTS**
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌪️ **Climate Prediction System**
-*NDMA Official Project*
-
-![Impact](https://img.shields.io/badge/Impact-National_Scale-FF6B9D?style=for-the-badge&logo=globe&logoColor=white)
-![Accuracy](https://img.shields.io/badge/Accuracy-95%25-4ECDC4?style=for-the-badge&logo=target&logoColor=white)
-
-**Revolutionary AI platform providing real-time smog and temperature forecasting**
-
-🎯 **Features:**
-- 📊 ML pipeline processing 15+ weather APIs
-- ⏰ Real-time predictions (15-min cycles)
-- 📱 Executive dashboard with PDF reports
-- 🚨 Smart public health alerts
-
-**Stack:** `Prophet ML` `FastAPI` `PostgreSQL` `React` `D3.js`
-
-</td>
-<td width="50%">
-
-### 🤖 **Multi-Agent AI HR Platform**
-*Enterprise Innovation*
-
-![Innovation](https://img.shields.io/badge/Innovation-Multi--Agent-FFE66D?style=for-the-badge&logo=robot&logoColor=black)
-![Interface](https://img.shields.io/badge/Interface-Voice_AI-FF6B9D?style=for-the-badge&logo=microphone&logoColor=white)
-
-**Enterprise AI platform revolutionizing HR through intelligent automation**
-
-🌟 **Innovations:**
-- 🎭 Specialized AI agents for HR tasks
-- 📚 RAG architecture with ChromaDB
-- 🎤 Voice-enabled interface
-- 🧠 Persistent conversation memory
-
-**Stack:** `LangChain` `GPT-4` `FastAPI` `React` `ChromaDB`
-
-</td>
-</tr>
+### 💼 Professional Experience
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Software Lead | Dreambridge.ai</h4>
+      <i>Aug 2025 — Present</i>
+      <ul>
+        <li>Architected <b>Defuser.ai</b> social automation platform.</li>
+        <li>Built high-frequency FastAPI microservices for thousands of users.</li>
+        <li>Led cross-functional teams and set CI/CD standards.</li>
+        <li><b>99.9% production uptime</b> achieved.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏛️ Deputy Manager AI | NDMA</h4>
+      <i>Mar 2024 — July 2025</i>
+      <ul>
+        <li>Built <b>Climate Prediction Systems</b> (85% accuracy).</li>
+        <li>Optimized GovTech backends, reducing latency by 30%.</li>
+        <li>Integrated HEC-HMS & ArcGIS for disaster dashboards.</li>
+        <li><b>Winner: Best Innovation Award (2024).</b></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 AI Engineer | Horizon Tech</h4>
+      <i>Aug 2022 — Feb 2024</i>
+      <ul>
+        <li>Built media analytics boosting engagement by 15%.</li>
+        <li>Optimized PostgreSQL/Django query speed by 85%.</li>
+        <li>Integrated big data pipelines with React frontends.</li>
+        <li><b>Awarded: Outstanding Engineering Leadership.</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💊 Software Lead | Evexia Pharma</h4>
+      <i>Mar 2019 — July 2022</i>
+      <ul>
+        <li>Architected <b>Digital Franchise Management</b> system.</li>
+        <li>Implemented AI-based supply chain demand forecasting.</li>
+        <li>Increased reporting speed by 40% via DB optimization.</li>
+        <li><b>Awarded: Best Web Solutions Developer.</b></li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-### 🗺️ **Geospatial AI: Magnetic Anomaly Detection**
+---
 
-<div align="center">
-  
-  ![Platform](https://img.shields.io/badge/Platform-Google_Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)
-  ![Application](https://img.shields.io/badge/Application-Disaster_Prediction-FF4444?style=for-the-badge&logo=warning&logoColor=white)
-  
-</div>
+### 🌍 International Hackathon Showcases
+*Click the icons to view certificates or project details.*
 
-**Advanced geospatial intelligence analyzing subsurface magnetic anomalies for disaster risk assessment**
 
-🔬 **Scientific Impact:**
-- 🧭 Custom GEE JavaScript APIs for magnetic field analysis
-- 🤖 Deep learning models for geological anomaly detection  
-- 🗺️ 3D risk visualization for emergency systems
-- 📊 Predictive modeling for proactive disaster management
+
+| Event | Project | Links |
+| :--- | :--- | :--- |
+| **function1 AI (Dubai)** | **Agri-Vision:** Smart Farming & IoT | [📜 Certificate](https://lablab.ai/u/@MaknoonNisar/ai-hackathons/execute-ai-genesis/certificate) • [🚀 Project](https://lablab.ai/ai-hackathons/execute-ai-genesis/gogreen/agri-vision-empowering-smart-farming) |
+| **AIstronauts (Geneva)** | **SpaceAgents:** AI Space Education | [📜 Certificate](https://lablab.ai/u/@MaknoonNisar/event/aistronauts-space-agents-on-a-mission/certificate) • [🚀 Project](https://lablab.ai/ai-hackathons/aistronauts-space-agents-on-a-mission/hackfinity/ai-model-for-space-education) |
+| **Connectivity (Geneva)** | **GeoGuardians:** GIS Disaster Tech | [📜 Certificate](https://lablab.ai/u/@MaknoonNisar/event/ai-for-connectivity-hackathon/certificate) • [🚀 Project](https://lablab.ai/ai-hackathons/ai-for-connectivity-hackathon/geoguardians/geospatial-technology-and-disaster-management) |
+| **Build with AI (Global)** | **GenAI Tourism & Risk Analytics** | [🏆 Top 10 Selection](https://www.linkedin.com/feed/update/urn:li:activity:7295290396773957632/) |
 
 ---
 
-## 🏆 **INTERNATIONAL ACHIEVEMENTS**
+### 📑 Research & Publications
+<p align="left">
+  <img src="https://img.shields.io/badge/Citations-150+-green?style=flat-square&logo=google-scholar" />
+  <img src="https://img.shields.io/badge/h--index-8-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Publications-15+-blue?style=flat-square" />
+</p>
 
-<div align="center">
-
-### 🚀 **2025 HACKATHON CHAMPIONSHIPS**
-
-| 🏆 Event | 🌍 Location | 🎯 Achievement | 💡 Innovation |
-|:---------|:------------|:---------------|:---------------|
-| **AIstronauts** | University of Geneva 🇨🇭 | 🥇 **Winner** | AI Space Education with AR/VR |
-| **AI for Connectivity** | University of Geneva 🇨🇭 | 🥇 **Winner** | GIS Tourism & Disaster Platform |
-| **Build with AI 2024** | GenAI Works Global 🌐 | 🏅 **Top 10** | Selected from 500+ teams |
-
-</div>
+* **[Journal] Healthcare Techniques Through Deep Learning** *IEEE Access, Vol. 9* (SCI-Expanded, Scopus) | **79 Citations** 👉 [View Full Paper](https://ieeexplore.ieee.org/document/9476037)
+* **[Conference] Protein Classification via Improved DarkNet-53** *IEEE MAJICC Conference* | **3 Citations** 👉 [View on IEEE Xplore](https://ieeexplore.ieee.org/document/9994209)
+* **[Conference] Breast Cancer Identification via Improved DarkNet-53** *Innovations in Bio-Inspired Computing (Springer)* | **2 Citations** 👉 [View on Springer](https://link.springer.com/chapter/10.1007/978-3-031-27499-2_32#citeas)
 
 ---
 
-## 🎓 **EDUCATION & RESEARCH**
-
-### 📚 **Master's in Computer Science** | *UET Islamabad*
-**CGPA: 3.5/4.0** | **Research:** *"Proteins Classification Using Improved DarkNet-53"*
-
-### 📊 **Research Publications & Impact**
-
-<div align="center">
-
-#### 🏆 **SELECTED PUBLICATIONS**
-
-<table>
-<tr>
-<td width="33%">
-
-### 🩺 **Healthcare AI (2021)**
-*IEEE Access - Journal*
-
-![Journal](https://img.shields.io/badge/IEEE-Access-4285F4?style=for-the-badge&logo=ieee&logoColor=white)
-![Citations](https://img.shields.io/badge/Citations-80+-FF6B9D?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-**"Healthcare Techniques Through Deep Learning: Issues, Challenges and Opportunities"**
-
-👥 **Authors:** Dur-E-Maknoon Nisar, Rashid Amin, Noor-Ul-Huda Shah, M.A. Al Ghamdi, Sultan H. Almotiri, Meshrif Alruily
-
-🎯 **Impact:** Comprehensive review of DL applications in healthcare
-
-</td>
-<td width="33%">
-
-### 🧬 **Protein Classification (2022)**
-*MAJICC Conference*
-
-![Conference](https://img.shields.io/badge/MAJICC-2022-4ECDC4?style=for-the-badge&logo=conference&logoColor=white)
-![Innovation](https://img.shields.io/badge/Innovation-DarkNet--53-FFE66D?style=for-the-badge&logo=ai&logoColor=black)
-
-**"Proteins Classification Using an Improved Darknet-53 Deep Learning Model"**
-
-👥 **Authors:** Dur-e-Maknoon Nisar, Rabbia Mahum, Tabinda Azim, Noor-ul-huda Shah
-
-🔬 **Contribution:** Enhanced protein structure prediction with 94% accuracy
-
-</td>
-<td width="33%">
-
-### 🔬 **Breast Cancer Detection (2023)**
-*IBICA Conference*
-
-![Conference](https://img.shields.io/badge/IBICA-2023-FF6B9D?style=for-the-badge&logo=medical&logoColor=white)
-![Accuracy](https://img.shields.io/badge/Accuracy-96%25-00C851?style=for-the-badge&logo=target&logoColor=white)
-
-**"Breast Cancer Identification Using Improved DarkNet53 Model"**
-
-👥 **Authors:** Noor Ul Huda Shah, Rabbia Mahum, Dur e Maknoon Nisar, Noor Ul Aman, Tabinda Azim
-
-🏥 **Impact:** Advanced medical imaging AI for early cancer detection
-
-</td>
-</tr>
-</table>
-
-#### 📈 **RESEARCH METRICS**
-
-| 📑 **Publications** | 📊 **Total Citations** | 🎯 **H-Index** | 🌍 **Research Impact** |
-|:-------------------:|:----------------------:|:---------------:|:----------------------:|
-| **15+** | **150+** | **8** | **International** |
-
-#### 🔬 **RESEARCH DOMAINS**
-
-```python
-research_focus = {
-    "🧠 Deep Learning": ["Computer Vision", "Medical AI", "Protein Analysis"],
-    "🏥 Healthcare AI": ["Cancer Detection", "Diagnostic Imaging", "Biomedical NLP"],
-    "🌍 Disaster Tech": ["Climate Prediction", "Geospatial AI", "Early Warning Systems"],
-    "🤖 Applied AI": ["Multi-Agent Systems", "Time Series", "Anomaly Detection"]
-}
-```
-
-</div>
----
-
-## 💻 **TECHNICAL MASTERY**
-
-<div align="center">
-
-### 🧠 **AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Expert-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 🌐 **Full Stack Development**
-![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🗺️ **Geospatial & Cloud**
-![GEE](https://img.shields.io/badge/Google_Earth_Engine-Expert-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+### 📊 Engineering Analytics & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maknoonisar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maknoonisar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maknoonisar&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="97%" />
+</p>
 
 ---
 
-## 📊 **SKILLS BREAKDOWN**
-
-<details>
-<summary>🧠 <b>AI & Machine Learning Expertise</b></summary>
-
-```python
-ai_skills = {
-    "Computer_Vision": ["OpenCV", "YOLO", "Detectron2", "Image Segmentation"],
-    "Generative_AI": ["GPT-4", "LangChain", "RAG", "Fine-tuning"],
-    "Time_Series": ["Prophet", "ARIMA", "Forecasting", "Anomaly Detection"],
-    "Geospatial_AI": ["Google Earth Engine", "Satellite ML", "GIS Analytics"],
-    "NLP": ["Transformers", "BERT", "Text Classification"],
-    "MLOps": ["Docker", "Kubernetes", "Model Versioning", "CI/CD"]
-}
-```
-
-</details>
-
-<details>
-<summary>💻 <b>Development Stack</b></summary>
-
-```javascript
-tech_stack = {
-  "Languages": ["Python (Expert)", "JavaScript (Advanced)", "TypeScript", "SQL"],
-  "Frontend": ["React.js", "Next.js", "Vue.js", "HTML5", "CSS3", "Tailwind"],
-  "Backend": ["FastAPI", "Django", "Flask", "Node.js", "RESTful APIs"],
-  "Databases": ["PostgreSQL", "MongoDB", "Redis", "ChromaDB"],
-  "DevOps": ["Docker", "Kubernetes", "Git", "GitHub Actions", "Apache Airflow"]
-}
-```
-
-</details>
-
-<details>
-<summary>🌍 <b>Geospatial & Cloud Technologies</b></summary>
-
-```yaml
-geospatial_cloud:
-  Platforms:
-    - Google Earth Engine (Expert)
-    - QGIS (Advanced)
-    - ArcMap (Intermediate)
-  
-  Cloud_Services:
-    - AWS (Certified)
-    - Google Cloud Platform
-    - Azure (Basic)
-  
-  Specializations:
-    - Remote Sensing
-    - Satellite Data Processing  
-    - Spatial Analysis
-    - Custom GEE JavaScript APIs
-```
-
-</details>
-
----
-
-## 📈 **GITHUB ANALYTICS**
+### 🤝 Let's Connect
+* **Email:** [duremaknoonnisar@gmail.com](mailto:duremaknoonnisar@gmail.com)
+* **Status:** Available for Dubai-based Hybrid/Onsite roles (30 Days Notice).
 
 <div align="center">
-  
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maknoonisar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&langs_count=8" width="38%"/>
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" />
 </div>
-
-
-
----
-
-## 🏅 **CERTIFICATIONS & TRAINING**
-
-<div align="center">
-
-| 🌍 **Disaster Management** | 🔒 **Cybersecurity** | 🤖 **AI & Cloud** |
-|:---------------------------|:---------------------|:-------------------|
-| 🆘 UNESCAP DiDRR Training | 🛡️ ADB Cybersecurity | 🧠 Deep Learning Specialization |
-| 🌊 JICA Seismic Assessment | 📊 National Data Fest | ☁️ AWS Cloud Practitioner |
-| 👥 IWMI Gender Inclusion | 🔐 Public Sector Security | 🔄 MLOps Professional |
-
-</div>
-
----
-
-## 🌟 **COMMUNITY IMPACT**
-
-### 🤝 **Volunteer Leadership**
-- **🏢 Hashoo Foundation** - Hunar Program Mentor (*500+ individuals trained*)
-- **🌱 SLCDO** - Community Development (*200+ career transformations*)  
-- **🎓 Tech Mentorship** - University guidance (*50+ projects completed*)
-
-### 📚 **Knowledge Sharing**
-- **🧠 AI Workshops** for underprivileged students
-- **💝 Pro-bono Development** for NGOs and social causes
-- **🌐 International Mentorship** and cross-cultural programs
-
----
-
-## 🎯 **2025-2030 VISION**
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🌟 Current Impact] --> B[🌍 Global Disaster Network]
-    A --> C[🤖 AI Research Lab]
-    A --> D[📚 Open Source Tools]
-    A --> E[🎓 Educational Innovation]
-    
-    B --> F[🏆 Thought Leadership]
-    C --> F
-    D --> F
-    E --> F
-    
-    F --> G[🌟 Global Recognition in Disaster Tech]
-    
-    style A fill:#FF6B9D,stroke:#fff,stroke-width:2px,color:#fff
-    style G fill:#4ECDC4,stroke:#fff,stroke-width:2px,color:#fff
-```
-
-</div>
-
-**Strategic Objectives:**
-- 🌍 Lead international AI early warning systems
-- 🤖 Establish humanitarian technology research center  
-- 📚 Create accessible disaster management AI tools
-- 🎓 Develop AI curriculum for emergency professionals
-- 🏆 Achieve global recognition in disaster tech innovation
-
----
-
-## 🤝 **LET'S CONNECT & COLLABORATE**
-
-<div align="center">
-  
-  <a href="mailto:duremaknoonnisar@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-duremaknoonnisar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/maknoonnisar">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-maknoonnisar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="https://github.com/maknoonisar">
-    <img src="https://img.shields.io/badge/👨‍💻_GitHub-maknoonisar-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  
-  <a href="https://leetcode.com/duremaknoon">
-    <img src="https://img.shields.io/badge/💻_LeetCode-duremaknoon-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  
-</div>
-
----
-
-<div align="center">
-  
-  ![Availability](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=2000&color=FFE66D&center=true&vCenter=true&width=700&height=60&lines=💡+Open+to+Exciting+Collaborations;🚀+Available+for+Innovative+Opportunities;🌍+Let's+Build+Solutions+That+Matter!)
-  
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-  
-</div>
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=maknoonisar&label=Profile%20Views&color=FF6B9D&style=for-the-badge)
-  ![Followers](https://img.shields.io/github/followers/maknoonisar?label=Followers&style=for-the-badge&color=4ECDC4&logo=github)
-  ![Status](https://img.shields.io/badge/Status-Available_for_Hire-00C851?style=for-the-badge&logo=checkmark&logoColor=white)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 💭 **"Transforming data into hope, innovation into impact, and technology into humanity's shield."**
-  
-  **🚀 Ready to collaborate on AI solutions that change the world? Let's build the future together!**
-  
-</div>
-
----
-
-<div align="center">
-  <sub>⭐ Star this repository if you found it inspiring! | 🔗 Share it with fellow innovators! | 💝 Open to collaboration!</sub>
-</div>
-
-
-
-
-
-
-
-
-
